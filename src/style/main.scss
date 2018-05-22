@@ -1,0 +1,10 @@
+$background-color: rgb(17, 228, 172);
+$font-color: rgb(16, 7, 78);
+
+html, body {
+  background: $background-color;
+}
+
+p,h1,h2,ul {
+  color: $font-color;
+}
