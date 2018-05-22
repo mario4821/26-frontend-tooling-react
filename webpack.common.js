@@ -14,7 +14,7 @@ webpackConfig.output = {
 
 webpackConfig.plugins = [
   new HtmlWebpackPlugin({
-    title: 'Make ups some title here',
+    title: 'Generate Cowsay Lorem',
   }),
 ];
 
